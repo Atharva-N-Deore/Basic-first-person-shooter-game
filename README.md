@@ -10,3 +10,6 @@ Hold shift to sprint, or use ctrl for toggle shift.
 
 Its a simple game, if you die, the map simply restarts.
 Explore the map, kill all the enemies, and have fun!
+
+Check it out on itch!
+https://atharva-deore.itch.io/basic-first-person-shooter
